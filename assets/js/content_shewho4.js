@@ -3,9 +3,9 @@ var slideData = [
 
 
   {
-    section: "// INTRODUCTION",
+    section: "// Who is IAVA?",
      icon: "",
-    header: "Iraq and Afghanistan Veterans of America (IAVA.org) is the leading post-9/11 veteran empowerment organization (VEO) with the most diverse and rapidly growing membership in America. ",
+    header: "Iraq and Afghanistan Veterans of America (IAVA) is the premier veterans advocacy and support organization on the planet. Every day, we fight for veterans. Hard. We are the tip-of-the spear non-profit engine of impact that connects, unites and empowers over 400,000 veterans and allies nationwide. Founded by an Iraq veteran in 2004, IAVA is the non-partisan leader in advocacy, public awareness and 1-on-1 case-management support. We organize locally, and drive historic impacts nationally.",
     bkgImage: {
       small: "09.jpg",
       medium: "09.jpg",
@@ -16,26 +16,23 @@ var slideData = [
  
 <div class="sectionlede">
 
-
+[insert letter]
+<br /><br />
 
 In 2016, IAVA killed $4 billion in cuts to the Post-9/11 GI Bill, a landmark bill that IAVA fought to pass in 2008. IAVA’s member survey was the driver for what became a national call to action and a fight for this critical education benefit. This fight was personal; the road was long—longer than it should’ve been—but together we got it done.
 <br /><br />
 
-But the fight is far from over. And the stakes have never been higher.
-<br /><br />
+ <br /><br />
 
-With each year, veterans worry about the nation’s attention and support turning away from this community. Thus with each passing year it becomes more crucial that this nation understands and shares in both the struggles and successes of this newest generation of veterans.
-<br /><br />
+ <br /><br />
 
-IAVA’s annual member survey is one of the largest non-governmental surveys of Iraq and Afghanistan combat veterans and is the most comprehensive, asking about employment, education, benefits, health and other emerging issues. Through this survey, the collective voice of IAVA members have influenced the current She Who Borne the Battle Campaign, the 2016 Campaign to Defend the GI Bill, the 2014 Campaign to Combat Suicide, the 2013 Campaign to End the VA Backlog, the Vow to Hire Heroes Act and so much more!
-
+ 
 <br /><br />
 
 <strong>This year’s survey highlights some of the challenges that the fastest growing population of service members and veterans -- women -- face. This survey drove our top policy priority for 2017, to improve recognition and services for women veterans.</strong> It also shows that mental health challenges and access to care continue to impact veterans in all facets of their lives. And it highlights a continued need for a focus on finances during the transition period.
 <br /><br />
 
-Yet it also shows that vets are rising. <strong>Twenty-four</strong> percent of our members are planning to start their own business and three percent already have. <strong>Eighty-eight</strong> percent voted in the 2016 Presidential Election, and <strong>41</strong> percent are considering a run for public office themselves. The information from this survey is a major driver for all that IAVA does. It should be a road map for the country too. The post-9/11 generation of veterans has had the nation’s back for over a decade; it’s time for the nation to have theirs.
-<br /><br />
+ <br /><br />
 
 Best,
 <br />
@@ -56,6 +53,37 @@ Founder and CEO
   
 
  
+  {
+    section: "// The Big 6",
+     icon: "",
+    header: "This “Big 6” contains the challenges and opportunities that IAVA members care about most–and see as areas where we can uniquely make an impact. IAVA members are poised to educate the public, design solutions for positive impact, and lead the way to the future. ",
+    bkgImage: {
+      small: "09.jpg",
+      medium: "09.jpg",
+      large: "09.jpg"
+    },
+    body: `
+
+ 
+<div class="sectionlede">
+
+Please rank IAVA's Big 6 Priorities, listed below, in order of most important to least important to you:______ Mental Health and Suicide Prevention (1)______ VA Reform (2)______ Education Benefits (3)______ Toxic Exposures, including Burn Pits (4)______ Women Veterans (5)______ Utilization of Medical Cannabis (6)
+<br /><br />
+<h4>[Add 1 big stat from each of the Big 6]</h4>
+ 
+
+ </div>
+
+ 
+
+
+
+     `
+  },
+  
+  
+  
+  
 
 
 
@@ -83,50 +111,67 @@ Founder and CEO
 </div>
 
 
-
 <div class="donut">
-<h5>Marital Status</h5>
+<h5>Community</h5>
 <svg xmlns="http://www.w3.org/2000/svg" id="svg1" width="310" height="396"></svg>    
 </div>
 
+ <br />
+ 
+
+<h5>Household Income</h5>
+<div style="display:inline-block;width:100%; "><svg xmlns="http://www.w3.org/2000/svg" id="svg2" height="500"></svg></div>
+ 
+  <br />
+
+
+<h5>Education</h5>
+<div style="display:inline-block;width:100%; "><svg xmlns="http://www.w3.org/2000/svg" id="svg3" height="500"></svg></div>
+ <br />
+ 
+
+<div class="donut">
+<h5>Marital Status</h5>
+<svg xmlns="http://www.w3.org/2000/svg" id="svg4" width="310" height="396"></svg>    
+</div>
 
 
 <div class="donut">
-<h5>Community</h5>
-<svg xmlns="http://www.w3.org/2000/svg" id="svg2" width="310" height="396"></svg>    
+<h5>Children</h5>
+<svg xmlns="http://www.w3.org/2000/svg" id="svg5" width="310" height="396"></svg>    
 </div>
 
-  <br />
 
-<h5>Employment Status</h5>
-<div style="display:block;width:100%; ">
-<svg xmlns="http://www.w3.org/2000/svg" id="svg3" height="500"></svg>
+<div class="donut">
+<h5>Religious Affiliation</h5>
+<svg xmlns="http://www.w3.org/2000/svg" id="svg6" width="310" height="396"></svg>    
 </div>
 
-  <br />
+
+<br />
+
 <h5>Ethnicity</h5>
-<div style="display:block;width:100%; "><svg xmlns="http://www.w3.org/2000/svg" id="svg4" height="500"></svg></div>
+<div style="display:block;width:100%; "><svg xmlns="http://www.w3.org/2000/svg" id="svg7" height="500"></svg></div>
 
   <br />
 
 
 
 <h5>Gender Identity</h5>
-<div style="display:block;width:100%; "><svg xmlns="http://www.w3.org/2000/svg" id="svg5" height="250"></svg></div>
+<div style="display:block;width:100%; "><svg xmlns="http://www.w3.org/2000/svg" id="svg8" height="250"></svg></div>
  <br />
 
 
 
-<h5>Education</h5>
-<div style="display:inline-block;width:100%; "><svg xmlns="http://www.w3.org/2000/svg" id="svg6" height="500"></svg></div>
+
+<h5>Sexual Orientation</h5>
+<div style="display:block;width:100%; "><svg xmlns="http://www.w3.org/2000/svg" id="svg9" height="250"></svg></div>
  <br />
- 
-<h5>Household Income</h5>
-<div style="display:inline-block;width:100%; "><svg xmlns="http://www.w3.org/2000/svg" id="svg7" height="500"></svg></div>
- 
 
-<br /><br />* 6.4% Unemployed and looking for work, 1.2% Unemployed and not looking for work 
 
+
+
+<br /><br /> 
  
  `
 
@@ -135,7 +180,7 @@ Founder and CEO
   
 
   {
-    section: "// SERVICE DEMOGRAPHICS",
+    section: "// Profile of an IAVA Member",
     header: "",
     bkgImage: {
       small: "covers.jpg",
